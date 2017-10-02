@@ -10,6 +10,6 @@ attr_accessor :str
   end
 
   def knowledge
-    sample(@knowledge) 
+    @knowledge 
   end
 end
